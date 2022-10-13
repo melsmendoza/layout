@@ -1,7 +1,8 @@
+
 .layout {
-    height: 80%;
+    height: 100%;
     width: 45%;
-    border: 2px solid #3a241d;
+    border: 2px solid #da7d61;
     border-radius: 1rem;
     position: absolute;
     opacity: 0.5;
@@ -35,21 +36,10 @@
    }
 
 h1 {
-    color: #4eca63;
+    color: #4ca113;
     text-align: center;
   }
 
-  #subtitulo {
-    color:blue
-  }
-
-  h1{
-    color:#c738b4
-    text-aling: ;
-  }
- #texto3 {
-    color:red
- }
 
  #tablero-izquierdo{
     width: 25%;
